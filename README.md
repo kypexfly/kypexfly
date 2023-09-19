@@ -1,7 +1,29 @@
 ### Hey there 👋 I'm Ricardo
 
-A FullStack Web Developer with +2 years of experience. I like writing code for fun and making applications.
-I have worked extensively with React, TypeScript, and Node.js, just to name a few.
+A FullStack Web Developer with +2 years of experience with React.js, Next.js TypeScript, Node.js and among others.
+
+### Tech stack
+
+#### Programming Languages
+<img src="https://skillicons.dev/icons?i=js,ts,java,python" height=32 alt="Programming Languages" />
+
+#### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,graphql,tailwind,materialui,bootstrap,jest,vite,html,css" height=32 alt="Frontend development" />
+
+#### Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,supabase" height=32 alt="Backend development" />
+
+#### Other tools
+
+<img src="https://skillicons.dev/icons?i=docker,photoshop,git" height=32 alt="Other tools" />
+
+### I'm currently
+
+* 🌱 Learning Java Spring Boot
+* 🤖 Interested in AI and LLMs
+* 👷 Looking for a job as developer
+* ⚙️ Working on projects
 
 ### 🌐 Connect with Me
 
