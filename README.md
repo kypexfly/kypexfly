@@ -16,7 +16,7 @@ A FullStack Web Developer with +2 years of experience with React.js, Next.js Typ
 
 #### Other tools
 
-<img src="https://skillicons.dev/icons?i=docker,photoshop,git" height=32 alt="Other tools" />
+<img src="https://skillicons.dev/icons?i=git,docker,figma,photoshop" height=32 alt="Other tools" />
 
 ### I'm currently
 
