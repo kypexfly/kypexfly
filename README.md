@@ -22,7 +22,6 @@ A FullStack Web Developer with +2 years of experience with React.js, Next.js Typ
 
 * 🌱 Learning Java Spring Boot
 * 🤖 Interested in AI and LLMs
-* 👷 Looking for a job as developer
 * ⚙️ Working on projects
 
 ### 🌐 Connect with Me
